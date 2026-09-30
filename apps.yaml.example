@@ -1,0 +1,11 @@
+ecos_bridge:
+  module: ecos_bridge
+  class: EcosBridge
+  email: !secret ecos_email
+  password: !secret ecos_password
+  datacenter: AU            # AU, EU or CN - whichever region your ECOS app account is on
+  interval: 60              # seconds between polls (minimum 30)
+  # device_serial: SHA...   # only needed if your account has more than one device
+  # prefix: ecos            # entity IDs become sensor.<prefix>_solar_power etc.
+  # name_prefix: ECOS       # friendly names become "<name_prefix> Solar Power (MPPT)" etc.
+  # log_first_payload: true # log the first raw API reply (handy for checking fields)
