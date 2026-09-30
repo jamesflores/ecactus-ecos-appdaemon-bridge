@@ -92,6 +92,14 @@ If your Energy dashboard's battery uses an AC-side meter, add the MPPT solar lik
 
 This tells HA that the MPPT solar goes into the battery and later comes out through the AC-side meter you already have.
 
+<img width="1287" height="745" alt="image" src="https://github.com/user-attachments/assets/e56c8b85-0e9f-4e20-896c-9d10daf69305" />
+
+<img width="1303" height="793" alt="image" src="https://github.com/user-attachments/assets/72f81907-e002-43f3-89e6-9c5db4015d46" />
+
+<img width="827" height="686" alt="image" src="https://github.com/user-attachments/assets/c2a27d66-4f56-418b-856b-a9752b3d4d8b" />
+
+<img width="650" height="735" alt="image" src="https://github.com/user-attachments/assets/bb423b59-fc28-4e0a-a51f-e221600e02c3" />
+
 ## License
 
 GPL-3.0. See [LICENSE](LICENSE).
