@@ -26,6 +26,9 @@ Entity IDs use a configurable prefix (default `ecos`).
 
 <img width="1512" height="830" alt="image" src="https://github.com/user-attachments/assets/be791729-0584-46e6-960e-2ad538df31d2" />
 
+<img width="1065" height="825" alt="image" src="https://github.com/user-attachments/assets/47d34eab-cbf5-448b-920c-82e2f974ebbf" />
+
+
 Notes:
 
 - ECOS usually refreshes its cloud data every few minutes. The bridge polls every 60 s by default, so values change in steps.
